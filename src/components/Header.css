@@ -1,0 +1,27 @@
+.nav{
+    scroll-behavior: smooth;
+}
+.header{
+    background-color: #1C2B35;
+    
+}
+.header_area{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.header_area a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    padding: 10px 8px;
+}
+.header_area a:hover{
+    background-color: orange;
+    width: 20px;
+    height: 10px;
+    border-radius: 5px;
+}
