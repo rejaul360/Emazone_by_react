@@ -17,11 +17,13 @@
     text-decoration: none;
     color: white;
     margin-left: 30px;
-    padding: 10px 8px;
+    padding: 10px 12px;
 }
 .header_area a:hover{
-    background-color: orange;
+    background-color: rgb(240, 188, 120);
     width: 20px;
     height: 10px;
     border-radius: 5px;
+    color: black;
+    font: bold;
 }
