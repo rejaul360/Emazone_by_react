@@ -9,7 +9,7 @@
     width: 286px;
     height: 286px;
     border-radius: 10px;
-    margin: 8px;
+    margin: 7px;
 }
 .product_name{
     font-size: 20px;
@@ -18,12 +18,21 @@
     font-family: normal;
     color: black;
     margin: 0;
+    font-weight: 600;
+    margin-bottom: 10px;
 }
 .product_info{
     margin-left: 14px;
 }
 .product_info p {
-    margin-top: 5px;
+    margin-top: 13px;
+    /* font-size: 16px; */
+    line-height: 19px;
+}
+.product_info .Price{
+    font-size: 18px;
+    font-weight: bold; 
+    color: tomato;
 }
 .btn_cart{
     width: 100%;
